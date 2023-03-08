@@ -17,6 +17,8 @@ tags:
 ## The trained characters along with their keys are:
 
 - **LuzNoceda**
+![tmp7komqa85aigpx857.png](https://huggingface.co/Jartemio/The_Owl_Characters_V2/resolve/main/images/tmp7komqa85aigpx857.png)
+
 - **AmityBlight**
 - **HunterGoldenGuard**
 
