@@ -33,7 +33,8 @@ tags:
 # THE OWL CHARACTERS
 
 # Model trained with the characters from the series The Owl House and their drawing style using
-[EveryDream Trainer 2.0](https://github.com/victorchall/EveryDream2trainer)
+[EveryDream Trainer 2.0](https://github.com/victorchall/EveryDream2trainer).
+# I created the dataset by extracting images from the episodes uploaded on [TheOwlClub.net](https://www.theowlclub.net/).
 
 #### The style training was done using the key **aniscreen**:
 <table>
