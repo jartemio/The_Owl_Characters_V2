@@ -18,7 +18,7 @@ library_name: diffusers
   }
   td {
     border: none;
-    padding: 10px;
+    padding: 0px;
   }
   img {
     max-width: 100%;
