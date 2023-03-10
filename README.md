@@ -494,8 +494,8 @@ library_name: diffusers
         </td>
         <td align="center">
             <img
-                src="https://huggingface.co/Jartemio/The_Owl_Characters_V2/resolve/main/images/tmph4or82wbzk31rvbe.png"
-                alt="tmp5_x0ktdj.png" title="tmp5_x0ktdj.png" />
+                src="https://huggingface.co/Jartemio/The_Owl_Characters_V2/resolve/main/images/tmpwww_beg5.jpg"
+                alt="tmpwww_beg5.jpg" title="tmpwww_beg5.jpg" />
         </td>
     </tr>
     <tr>
