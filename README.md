@@ -1,5 +1,6 @@
 # THE OWL CHARACTERS
-#### [Hugging Face](https://huggingface.co/Jartemio/The_Owl_Characters_V2).
+### This Github repository serves as an informational version of the repository available on Hugging Face. It is compressed for easier download and contains all the necessary resources to understand the project. However, please note that this repository is not functional, and the full functional version can be accessed on Hugging Face. Please visit the repository on Hugging Face to access the complete functionality.
+#### [Hugging Face](https://huggingface.co/Jartemio/The_Owl_Characters_V2)
 
 # Model trained with the characters from the series The Owl House and their drawing style using
 [EveryDream Trainer 2.0](https://github.com/victorchall/EveryDream2trainer).
