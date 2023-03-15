@@ -1,37 +1,5 @@
----
-license: openrail
-language:
-- en
-tags:
-- stable-diffusion
-- stable-diffusion-diffusers
-- text-to-image
-- diffusers
-- the-owl-house
-library_name: diffusers
----
-<style>
-  table {
-    border-collapse: collapse;
-    width: 100%;
-    opacity: 0.8;
-  }
-  td {
-    border: none;
-    padding: 0px;
-  }
-  img {
-    max-width: 100%;
-  }
-  tr {
-    border-top: none;
-    border-bottom: none;
-  }
-</style>
-
-
-
 # THE OWL CHARACTERS
+#### [Hugging Face](https://huggingface.co/Jartemio/The_Owl_Characters_V2).
 
 # Model trained with the characters from the series The Owl House and their drawing style using
 [EveryDream Trainer 2.0](https://github.com/victorchall/EveryDream2trainer).
